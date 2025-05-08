@@ -77,12 +77,8 @@ Catppuccin Latte:
       paper-slider-active-color: var(--paper-slider-knob-color)
       paper-slider-secondary-color: var(--blue)
 
-      # Bubble Cards
-      --bubble-main-background-color: var(--surface0)
-      --bubble-secondary-background-color: var(--surface1)
-      --bubble-accent-color: var(--blue)
-      --bubble-icon-background-color: var(--surface2)
-      --bubble-sub-button-background-color: var(--overlay1)
+      # Backgrounds
+      background-color-2: var(--surface1)
 
 
       # Labels
@@ -243,6 +239,9 @@ Catppuccin Frappe:
       paper-slider-active-color: var(--paper-slider-knob-color)
       paper-slider-secondary-color: var(--blue)
 
+      # Backgrounds
+      background-color-2: var(--surface1)
+
       # Labels
       label-badge-background-color: var(--surface0)
       label-badge-text-color: var(--text)
@@ -400,6 +399,9 @@ Catppuccin Macchiato:
       paper-slider-pin-color: var(--paper-slider-knob-color)
       paper-slider-active-color: var(--paper-slider-knob-color)
       paper-slider-secondary-color: var(--blue)
+
+      # Backgrounds
+      background-color-2: var(--surface1)
 
       # Labels
       label-badge-background-color: var(--surface0)
@@ -559,6 +561,9 @@ Catppuccin Mocha:
       paper-slider-active-color: var(--paper-slider-knob-color)
       paper-slider-secondary-color: var(--blue)
 
+      # Backgrounds
+      background-color-2: var(--surface1)
+      
       # Labels
       label-badge-background-color: var(--surface0)
       label-badge-text-color: var(--text)
